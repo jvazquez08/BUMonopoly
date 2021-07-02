@@ -56,6 +56,6 @@ To buy a property: type "1" and hit enter. Otherwise: type "0" and hit enter.
 * Building properties on monopolies
 
 ## Contributors
-Jovany Vazquez<br >
-Christopher Lemus<br >
-Zachary Capone<br >
+* Jovany Vazquez<br >
+* Christopher Lemus<br >
+* Zachary Capone<br >
