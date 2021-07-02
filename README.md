@@ -33,7 +33,12 @@ This is what the board looks like when the game is running.
 
 ## Features
 * Playable between 2-4 people
-* Dice Roll
+* Dice roll
+* Buy property if not already owned
+* Gain $200 when passing "Go"
+* Player monetary balance adjustments depending on whether you buy a property or pass "Go"
+* Full monopoly board with 40 spaces
+* Nearly identical replica of placements of properties (i.e. utilities and railroads) 
 
 ## Examples of use
 After executing "mono"... <br >
@@ -44,10 +49,11 @@ When prompted... <br >
 To buy a property: type "1" and hit enter. Otherwise: type "0" and hit enter.
 
 ## Project status
-The project is not finished entirely but mostly operational. We are still missing...
-//////
-//////
-//////
+* The project is not finished entirely but mostly operational. We are still missing...
+* Mortgaging properties
+* Property trading
+* Proper rent affiliated with the utilities and railroads
+* Building properties on monopolies
 
 ## Contributors
 Jovany Vazquez<br >
