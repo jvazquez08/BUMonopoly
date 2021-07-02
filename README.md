@@ -28,7 +28,7 @@ $ mono
 
 ## Illustration
 This is what the board looks like when the game is running.
-![Illustration](./images/board.jpg)
+![Illustration](./images/board.png)
 
 ## Features
 * Playable between 2-4 people
