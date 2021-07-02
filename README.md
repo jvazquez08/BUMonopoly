@@ -28,6 +28,7 @@ $ mono
 
 ## Illustration
 This is what the board looks like when the game is running.
+
 ![Illustration](./images/board.png)
 
 ## Features
@@ -36,18 +37,19 @@ This is what the board looks like when the game is running.
 
 ## Examples of use
 After executing "mono"...
+
 To initialize number of players: Type a number from 2-4.
 To roll the dice: Type "r" and hit enter.
 When prompted... 
 To buy a property: type "1" and hit enter. Otherwise: type "0" and hit enter.
 
-##Project status
+## Project status
 The project is not finished entirely but mostly operational. We are still missing...
 //////
 //////
 //////
 
-##Contributors
+## Contributors
 Jovany Vazquez
 Christopher Lemus
 Zachary Capone
