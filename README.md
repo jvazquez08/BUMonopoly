@@ -1,7 +1,7 @@
 # BU Monopoly
 
 ## Table of contents
-* [Introduction](#Introduction)
+* [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Launch](#launch)
 * [Illustration](#illustration)
@@ -17,7 +17,7 @@ We have programmed as close a replica to a functioning game of monopoly as possi
 * SFML Library
 
 ## Launch
-This project requires a linux machine with several libraries downloaded including the most important, SFML Library. All libraries needed are listed within each file necessary to run the program.
+This project requires a linux machine with several libraries downloaded including the most important, SFML Library. All libraries needed are listed within each file necessary to run the program. <br >
 
 Once all the files are downloaded, you must run your terminal from within the directory that contains these files. Once there, type "make" to create all the executable files. Then, you can start the game by typing "mono" in the terminal and voila! You will have begun playing BU Monopoly!
 
@@ -36,11 +36,11 @@ This is what the board looks like when the game is running.
 * Dice Roll
 
 ## Examples of use
-After executing "mono"...
-
-To initialize number of players: Type a number from 2-4.
-To roll the dice: Type "r" and hit enter.
-When prompted... 
+After executing "mono"... <br >
+<br >
+To initialize number of players: Type a number from 2-4.<br >
+To roll the dice: Type "r" and hit enter.<br >
+When prompted... <br >
 To buy a property: type "1" and hit enter. Otherwise: type "0" and hit enter.
 
 ## Project status
@@ -50,6 +50,6 @@ The project is not finished entirely but mostly operational. We are still missin
 //////
 
 ## Contributors
-Jovany Vazquez
-Christopher Lemus
-Zachary Capone
+Jovany Vazquez<br >
+Christopher Lemus<br >
+Zachary Capone<br >
